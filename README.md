@@ -52,6 +52,6 @@ This notebook takes advantages of [Plotly](https://plot.ly/) for its interacitve
 ---
 
 ## plotly_map_plot.ipynb
-A tutorial on how to use [Plotly](https://plot.ly/) to plot an interactive choropleth map by layering with [Mapbox](https://www.mapbox.com/).
+A tutorial on how to use [Plotly](https://plot.ly/) to plot an interactive choropleth map by layering with [Mapbox](https://www.mapbox.com/). To use Mapbox, a free regestration is required to obtain a token.
 
 <img src="images/map.gif" width="618" height="546" />
