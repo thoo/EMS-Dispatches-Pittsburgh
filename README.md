@@ -4,23 +4,23 @@ This repository contains jupyter notebooks which explore [Allegheny County 911 E
 There are four jupyter notebooks:
 
 <ol>
-<li> data_preprocessing.ipynb  <a href="https://colab.research.google.com/github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/data_preprocessing.ipynb">
+<li> data_preprocessing.ipynb  <a href="https://colab.research.google.com/github/thoo/EMS-Dispatches-Pittsburgh/blob/master/data_preprocessing.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="12px"/>
 </a> </li>
 
-<li> data_preprocessing-EMS-population.ipynb  <a href="https://colab.research.google.com/github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/data_preprocessing-EMS-population.ipynb">
+<li> data_preprocessing-EMS-population.ipynb  <a href="https://colab.research.google.com/github/thoo/EMS-Dispatches-Pittsburgh/blob/master/data_preprocessing-EMS-population.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="12px"/>
 </a></li>
 
-<li> data-visualization-seaborn.ipynb  <a href="https://colab.research.google.com/github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/data-visualization-seaborn.ipynb">
+<li> data-visualization-seaborn.ipynb  <a href="https://colab.research.google.com/github/thoo/EMS-Dispatches-Pittsburgh/blob/master/data-visualization-seaborn.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="12px"/>
 </a></li>
 
-<li> data-visualization-plotly.ipynb  <a href="https://colab.research.google.com/github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/data-visualization-plotly.ipynb">
+<li> data-visualization-plotly.ipynb  <a href="https://colab.research.google.com/github/thoo/EMS-Dispatches-Pittsburgh/blob/master/data-visualization-plotly.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="12px"/>
 </a></li>
 
-<li> plotly_map_plot.ipynb  <a href="https://colab.research.google.com/github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/plotly_map_plot.ipynb">
+<li> plotly_map_plot.ipynb  <a href="https://colab.research.google.com/github/thoo/EMS-Dispatches-Pittsburgh/blob/master/plotly_map_plot.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="12px"/>
 </a></li>
 </ol>
